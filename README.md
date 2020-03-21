@@ -1,4 +1,4 @@
-# hzsFinal
+# Finale Hakaton za srednjoškolce
 Kod koji je pređen na trećoj pripremnoj radionici za Hakaton za srednjoškolce 2019.
 
 Resursi spomenuti na radionici, sugestije za dalji rad.
